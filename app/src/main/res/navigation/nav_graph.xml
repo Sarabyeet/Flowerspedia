@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/letterListFragment">
+
+    <fragment
+        android:id="@+id/letterListFragment"
+        android:name="com.sarabyeet.flowerspedia.ui.fragments.LetterListFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_letter_list">
+        <action
+            android:id="@+id/action_letterListFragment_to_wordListFragment"
+            app:destination="@id/wordListFragment"
+            app:enterAnim="@anim/slide_in_from_right"
+            app:exitAnim="@anim/slide_out_from_left"
+            app:popExitAnim="@anim/slide_out_from_right"
+            app:popEnterAnim="@anim/slide_in_from_left"/>
+    </fragment>
+    <fragment
+        android:id="@+id/wordListFragment"
+        android:name="com.sarabyeet.flowerspedia.ui.fragments.WordListFragment"
+        android:label="Flowers"
+        tools:layout="@layout/fragment_word_list">
+        <action
+            android:id="@+id/action_wordListFragment_to_flowerWebViewFragment"
+            app:destination="@id/flowerWebViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/flowerWebViewFragment"
+        android:name="com.sarabyeet.flowerspedia.ui.fragments.FlowerWebViewFragment"
+        android:label="FlowerWebViewFragment"
+        tools:layout="@layout/fragment_flower_web_view">
+        <argument
+            android:name="flowerName"
+            app:argType="string" />
+    </fragment>
+</navigation>

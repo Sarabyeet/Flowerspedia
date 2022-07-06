@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+
+        <item>Abutilon</item>
+        <item>Acacia</item>
+        <item>Aconite</item>
+        <item>African Daisy</item>
+        <item>Agapanthus</item>
+        <item>Ageratum</item>
+        <item>Alchemilla</item>
+        <item>Allium</item>
+        <item>Alstroemeria</item>
+        <item>Alyssum</item>
+        <item>Amaranthus</item>
+        <item>Amaryllis</item>
+        <item>Anemone</item>
+        <item>Anise Hyssop</item>
+        <item>Armeria Maritima</item>
+        <item>Aster</item>
+        <item>Azalea</item>
+        <item>Baby’s Breath </item>
+        <item>Bachelor’s Button</item>
+        <item>Balloon Flower</item>
+        <item>Ballota</item>
+        <item>Bee Balm</item>
+        <item>Begonia</item>
+        <item>Bellflower</item>
+        <item>Bergamot</item>
+        <item>Bergenia</item>
+        <item>Billbergia</item>
+        <item>Bletilla</item>
+        <item>Bluestar Flower</item>
+        <item>Bluebonnets</item>
+        <item>Blue-eyed Grass</item>
+        <item>Borage</item>
+        <item>Bottlebrush</item>
+        <item>Bouvardia</item>
+        <item>Brassica</item>
+        <item>Broom</item>
+        <item>Buttercup</item>
+        <item>Butterfly Bush</item>
+        <item>Calceolaria</item>
+        <item>Calendula</item>
+        <item>California Poppy</item>
+        <item>Calla Lily</item>
+        <item>Camellia</item>
+        <item>Candytuft</item>
+        <item>Canna Lily</item>
+        <item>Cape Leadwort</item>
+        <item>Cape Primrose</item>
+        <item>Cardinal Flower</item>
+        <item>Carnation</item>
+        <item>Catharanthus</item>
+        <item>Catmint</item>
+        <item>Celosia</item>
+        <item>Cerastium Tomentosum</item>
+        <item>Chicory</item>
+        <item>Chionodoxa</item>
+        <item>Chrysanthemum</item>
+        <item>Clover</item>
+        <item>Clematis</item>
+        <item>Coneflower</item>
+        <item>Cotoneaster</item>
+        <item>Daffodil</item>
+        <item>Dahlia</item>
+        <item>Daisy</item>
+        <item>Dandelion</item>
+        <item>Daphne</item>
+        <item>Daylily</item>
+        <item>Decumaria</item>
+        <item>Delphinium</item>
+        <item>Desert Rose</item>
+        <item>Deutzia</item>
+        <item>Dianella</item>
+        <item>Diascia</item>
+        <item>Dill</item>
+        <item>Disa</item>
+        <item>Echinops</item>
+        <item>Echium</item>
+        <item>Elder</item>
+        <item>English Bluebell</item>
+        <item>Epimedium</item>
+        <item>Eremurus</item>
+        <item>Erica</item>
+        <item>Erigeron</item>
+        <item>Euphorbia</item>
+        <item>Eustoma</item>
+        <item>Evening Primrose</item>
+        <item>Fall Crocus</item>
+        <item>Feverfew</item>
+        <item>Firethorn</item>
+        <item>Flaming Katy</item>
+        <item>Flannel Flower</item>
+        <item>Flax Flower</item>
+        <item>Flowering Dogwood</item>
+        <item>Forget Me Not</item>
+        <item>Forsythia</item>
+        <item>Four O’clock</item>
+        <item>Foxglove</item>
+        <item>Frangipani Flower</item>
+        <item>Freesia</item>
+        <item>French Marigold</item>
+        <item>Fuchsia</item>
+        <item>Gaillardia</item>
+        <item>Gardenia</item>
+        <item>Gazania</item>
+        <item>Geranium</item>
+        <item>Gerbera Flower</item>
+        <item>Gladiolas</item>
+        <item>Goldenrod</item>
+        <item>Grape Hyacinth</item>
+        <item>Guzmania</item>
+        <item>Hawthorn</item>
+        <item>Heather</item>
+        <item>Hebe</item>
+        <item>Helenium</item>
+        <item>Helichrysum</item>
+        <item>Heliotrope</item>
+        <item>Hellebore</item>
+        <item>Hibiscus</item>
+        <item>Holly</item>
+        <item>Hollyhock</item>
+        <item>Honeysuckle</item>
+        <item>Hosta</item>
+        <item>Hyacinth</item>
+        <item>Hydrangea</item>
+        <item>Hyssop</item>
+        <item>Ice Plant</item>
+        <item>Iceland Poppy</item>
+        <item>Impatiens</item>
+        <item>Ipomoea Lobata</item>
+        <item>Iris</item>
+        <item>Ixia</item>
+        <item>Ixora</item>
+        <item>Jacob’s Ladder</item>
+        <item>Jasmine</item>
+        <item>Johnny Jump Up</item>
+        <item>Jaborosa</item>
+        <item>Jamesia americana</item>
+        <item>Jonquil</item>
+        <item>Kaffir Lily</item>
+        <item>Kalmia</item>
+        <item>Kangaroo Paw</item>
+        <item>Knautia</item>
+        <item>Kniphofia</item>
+        <item>Kolkwitzia</item>
+        <item>Lady’s Slipper</item>
+        <item>Laelia</item>
+        <item>Lantana</item>
+        <item>Larkspur</item>
+        <item>Lavatera</item>
+        <item>Lavender</item>
+        <item>Lemon Verbena</item>
+        <item>Lewesia</item>
+        <item>Lilac</item>
+        <item>Lily of the Valley</item>
+        <item>Lily</item>
+        <item>Lotus</item>
+        <item>Love in the Mist</item>
+        <item>Lunaria</item>
+        <item>Lupin</item>
+        <item>Magnolia</item>
+        <item>Maltese Cross</item>
+        <item>Mandevilla</item>
+        <item>Marguerite Daisy</item>
+        <item>Marigold</item>
+        <item>Matthiola</item>
+        <item>Mayflower</item>
+        <item>Meconopsis</item>
+        <item>Mimosa</item>
+        <item>Moonflower Vine</item>
+        <item>Monk’s Hood</item>
+        <item>Moraea</item>
+        <item>Morning Glory</item>
+        <item>Moss Rose</item>
+        <item>Narcissus</item>
+        <item>Nasturtium</item>
+        <item>Nemesia</item>
+        <item>Nemophila</item>
+        <item>Neoregelia</item>
+        <item>Nerine</item>
+        <item>New Zealand Tea Tree</item>
+        <item>Nierembergia</item>
+        <item>Nolana</item>
+        <item>Oleander</item>
+        <item>Olearia</item>
+        <item>Orchid</item>
+        <item>Oriental Lily</item>
+        <item>Oriental Poppy</item>
+        <item>Ornamental Cherry</item>
+        <item>Ornithogalum</item>
+        <item>Osteospermum</item>
+        <item>Oxalis</item>
+        <item>Oxeye Daisy</item>
+        <item>Oyster Plant</item>
+        <item>Painted Daisy</item>
+        <item>Pansy</item>
+        <item>Parodia</item>
+        <item>Passion Flower</item>
+        <item>Peace Lily</item>
+        <item>Pelargonium</item>
+        <item>Penstemon</item>
+        <item>Peony</item>
+        <item>Periwinkle</item>
+        <item>Persian Buttercup</item>
+        <item>Petunia</item>
+        <item>Phlox</item>
+        <item>Photinia</item>
+        <item>Physostegia</item>
+        <item>Pincushion Flower</item>
+        <item>Pinks</item>
+        <item>Poinsettia</item>
+        <item>Potentilla</item>
+        <item>Polyanthus</item>
+        <item>Poppy</item>
+        <item>Powder Puff</item>
+        <item>Quaker Ladies</item>
+        <item>Queen Anne’s Lace</item>
+        <item>Queen of the Meadow</item>
+        <item>Queen’s Cup</item>
+        <item>Quince</item>
+        <item>Quesnelia</item>
+        <item>Reed</item>
+        <item>Restharrow</item>
+        <item>Rose</item>
+        <item>Rondeletia</item>
+        <item>Rosebay willowherb</item>
+        <item>Rosemary</item>
+        <item>Round-leaved sundew</item>
+        <item>Rue</item>
+        <item>Rock Rose</item>
+        <item>Rain Lily</item>
+        <item>Sage</item>
+        <item>Saint John’s Wort</item>
+        <item>Scaevola</item>
+        <item>Scented Geranium</item>
+        <item>Scilla</item>
+        <item>Sedum</item>
+        <item>Shasta Daisy</item>
+        <item>Silene</item>
+        <item>Snapdragon</item>
+        <item>Snowdrop</item>
+        <item>Snowflake</item>
+        <item>Soapwort</item>
+        <item>Speedwell</item>
+        <item>Starflower</item>
+        <item>Statice</item>
+        <item>Sunflower</item>
+        <item>Sweet Pea</item>
+        <item>Tiger Flower</item>
+        <item>Tea Rose</item>
+        <item>Tithonia</item>
+        <item>Tobacco Plant</item>
+        <item>Trachelium</item>
+        <item>Trillium</item>
+        <item>Triteleia</item>
+        <item>Tritonia crocata</item>
+        <item>Trollius</item>
+        <item>Trumpet Vine</item>
+        <item>Tulip</item>
+        <item>Tuberose</item>
+        <item>Uva Ursi</item>
+        <item>Ursinia</item>
+        <item>Urn Plant</item>
+        <item>Ulex-Gallii</item>
+        <item>Umbrella Plant</item>
+        <item>Uinta-Cactus</item>
+        <item>Ulex-Europaeus</item>
+        <item>Viburnum</item>
+        <item>Verbena</item>
+        <item>Valerian</item>
+        <item>Viola</item>
+        <item>Virginia Creeper</item>
+        <item>Vervain</item>
+        <item>Virginia Cowslip</item>
+        <item>Virginia Spiderwort</item>
+        <item>Wallflower</item>
+        <item>Wandflower</item>
+        <item>Water lilies</item>
+        <item>Watsonia</item>
+        <item>Wax Plant</item>
+        <item>Wedelia</item>
+        <item>Weigela</item>
+        <item>Whirling Butterflies</item>
+        <item>Winter Jasmine</item>
+        <item>Winterberry</item>
+        <item>Wishbone Flower</item>
+        <item>Woolly Violet</item>
+        <item>Xerophyllum</item>
+        <item>Xeranthemum</item>
+        <item>Xyris</item>
+        <item>Xanthoceras sorbifolium</item>
+        <item>Xylobium</item>
+        <item>Xylosma</item>
+        <item>Yarrow</item>
+        <item>Yellow Archangel</item>
+        <item>Yellow Bell</item>
+        <item>Yellow-eyed Grass</item>
+        <item>Yew</item>
+        <item>Yucca</item>
+        <item>Yellow Waxbells</item>
+        <item>Yellowroot</item>
+        <item>Zephyranthes</item>
+        <item>Zenobia</item>
+        <item>Zinnia</item>
+        <item>Zinnia elegans</item>
+        <item>Zinnia-Purple</item>
+        <item>Zantedeschia elliottiana</item>
+    </string-array>
+</resources>
