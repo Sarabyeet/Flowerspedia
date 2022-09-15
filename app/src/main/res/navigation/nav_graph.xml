@@ -30,7 +30,7 @@
     <fragment
         android:id="@+id/flowerWebViewFragment"
         android:name="com.sarabyeet.flowerspedia.ui.fragments.FlowerWebViewFragment"
-        android:label="FlowerWebViewFragment"
+        android:label="{flowerName} Details"
         tools:layout="@layout/fragment_flower_web_view">
         <argument
             android:name="flowerName"
